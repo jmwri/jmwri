@@ -2,7 +2,7 @@
 
 ![Jim's github stats](https://github-readme-stats.vercel.app/api?username=jmwri&count_private=true&show_icons=true&theme=darcula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmwri&layout=compact&theme=darcula&exclude=amazon-wishlist)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmwri&layout=compact&theme=darcula&exclude_repo=amazon-wishlist)
 
 ### Tools and Technologies
 
