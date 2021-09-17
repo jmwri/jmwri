@@ -18,7 +18,7 @@
 ![](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-ExpressJS-informational?style=flat&logo=spring&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-GoKit-informational?style=flat&logo=spring&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-Spring Boot-informational?style=flat&logo=spring&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Spring%20Boot-informational?style=flat&logo=spring&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/Storage-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Storage-Galera-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
